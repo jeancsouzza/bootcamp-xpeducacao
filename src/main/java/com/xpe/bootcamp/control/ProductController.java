@@ -1,4 +1,4 @@
-package com.xpe.bootcamp.controller;
+package com.xpe.bootcamp.control;
 
 import com.xpe.bootcamp.model.domains.Product;
 import com.xpe.bootcamp.model.services.ProductService;
